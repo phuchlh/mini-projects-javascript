@@ -117,3 +117,7 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+.back {
+  padding: 20px 0 0 240px;
+}

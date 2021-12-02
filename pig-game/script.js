@@ -86,3 +86,7 @@ hold.addEventListener('click', function () {
 // just call init, do not using anonymous function
 // javascript call the init function, dont using () to call
 newGame.addEventListener('click', init);
+
+document.querySelector('.btn--menu').addEventListener('click', function () {
+  history.back();
+});
