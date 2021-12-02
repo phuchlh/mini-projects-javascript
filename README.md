@@ -2,6 +2,8 @@
 
 ## In this repo, you will find many mini project by Javascript, all templates (HTML and CSS) are from Udemy. Details below
 
+1. Directly view: [here](https://phuchlh.github.io/mini-projects-javascript/index.html)
+
 1. Guessing number
   - Preview [here](https://i.imgur.com/1CXLIpc.png)
   - Number random generate at the first time you play, at the second time, you must press **Again** button
